@@ -1,9 +1,7 @@
 ### Hi there, I'm İpek Yağmur Kuzum 👋
 
 
-- 🔭 I’m currently involved with **n11 Talenthub QA Bootcamp**
-
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Selenium**
 
 - 📫 How to reach me **yagmurkuzuum@gmail.com**
 
