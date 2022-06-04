@@ -1,7 +1,7 @@
 ### Hi there, I'm İpek Yağmur Kuzum 👋
 
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Test Automation**
 
 - 📫 How to reach me **yagmurkuzuum@gmail.com**
 
