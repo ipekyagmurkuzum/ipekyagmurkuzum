@@ -17,4 +17,4 @@
   <a href="https://icons8.com/icon/20906/git" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
   <a href="https://icons8.com/icon/GPfHz0SM85FX/java"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" target="_blank" alt="java" width="40" height="40"/> 
   <a href="https://icons8.com/icon/EPbEfEa7o8CB/postman-is-the-only-complete-api-development-environment" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="javascript" width="35" height="35"/> 
-  <a href="https://icons8.com/icon/VOnRj9vGpXV8/selenium" target="_blank> <img src="https://img.icons8.com/stickers/100/000000/selenium-test-automation.png">Selenium icon by Icons8</a> alt="selenium" width="35" height="35"/>
+  <a href="https://icons8.com/icon/VOnRj9vGpXV8/selenium" target="_blank> <img src="https://img.icons8.com/stickers/100/000000/selenium-test-automation.png"/>
